@@ -1,0 +1,20 @@
+:root {
+    --bs-white: #fff;
+    --bs-body-bg: #141414;
+    --bs-body-font-weight: 600;
+    --bs-body-font-family: 'Poppins', sans-serif;
+}
+
+body {
+    background-color: var(--bs-body-bg);
+    font-family: var(--bs-body-font-family);
+}
+
+
+header {
+    height: 95vh; 
+    /* background-image: url("stars.jpg");
+    background-position: center;
+    background-repeat: no-repeat; 
+    background-size: cover; */
+}
